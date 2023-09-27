@@ -1,0 +1,128 @@
+[
+    {
+        "Picture": "https://images.unsplash.com/photo-1679678691007-67ae3f68a13e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8aGVhbHRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 1",
+        "Category": "Health",
+        "Category_bg": "#3498db",
+        "Card_bg": "#905103",
+        "Text_button_bg": "#2ecc71",
+        "Description": "A high-quality electronic gadget.",
+        "Price": "$199.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 2",
+        "Category": "Clothing",
+        "Category_bg": "#8e7cc3",
+        "Card_bg": "#f9ebae",
+        "Text_button_bg": "#f1c40f",
+        "Description": "Stylish clothing item for any occasion.",
+        "Price": "$49.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWR1Y2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 3",
+        "Category": "Education",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#fef3f8",
+        "Text_button_bg": "#3e454b",
+        "Description": "Equip yourself for your favorite sports activity.",
+        "Price": "$79.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 4",
+        "Category": "Food",
+        "Category_bg": "#fe89bf",
+        "Card_bg": "#f2fbf6",
+        "Text_button_bg": "#1abc9c",
+        "Description": "A bestselling novel for book enthusiasts.",
+        "Price": "$29.99"
+    },
+   
+    {
+        "Picture": "https://images.unsplash.com/photo-1679678691007-67ae3f68a13e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8aGVhbHRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 5",
+        "Category": "Health",
+        "Category_bg": "#3498db",
+        "Card_bg": "#905103",
+        "Text_button_bg": "#2ecc71",
+        "Description": "A high-quality electronic gadget.",
+        "Price": "$199.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 6",
+        "Category": "Clothing",
+        "Category_bg": "#8e7cc3",
+        "Card_bg": "#f9ebae",
+        "Text_button_bg": "#f1c40f",
+        "Description": "Stylish clothing item for any occasion.",
+        "Price": "$49.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWR1Y2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 7",
+        "Category": "Education",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#fef3f8",
+        "Text_button_bg": "#3e454b",
+        "Description": "Equip yourself for your favorite sports activity.",
+        "Price": "$79.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 8",
+        "Category": "Food",
+        "Category_bg": "#fe89bf",
+        "Card_bg": "#f2fbf6",
+        "Text_button_bg": "#1abc9c",
+        "Description": "A bestselling novel for book enthusiasts.",
+        "Price": "$29.99"
+    },
+   
+    {
+        "Picture": "https://images.unsplash.com/photo-1679678691007-67ae3f68a13e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxzZWFyY2h8MXx8aGVhbHRofGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 9",
+        "Category": "Health",
+        "Category_bg": "#3498db",
+        "Card_bg": "#905103",
+        "Text_button_bg": "#2ecc71",
+        "Description": "A high-quality electronic gadget.",
+        "Price": "$199.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvdGhpbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 10",
+        "Category": "Clothing",
+        "Category_bg": "#8e7cc3",
+        "Card_bg": "#f9ebae",
+        "Text_button_bg": "#f1c40f",
+        "Description": "Stylish clothing item for any occasion.",
+        "Price": "$49.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZWR1Y2F0aW9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 11",
+        "Category": "Education",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#fef3f8",
+        "Text_button_bg": "#3e454b",
+        "Description": "Equip yourself for your favorite sports activity.",
+        "Price": "$79.99"
+    },
+    {
+        "Picture": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "id": "Product 12",
+        "Category": "Food",
+        "Category_bg": "#fe89bf",
+        "Card_bg": "#f2fbf6",
+        "Text_button_bg": "#1abc9c",
+        "Description": "A bestselling novel for book enthusiasts.",
+        "Price": "$29.99"
+    }
+   
+ 
+  
+   
+]
